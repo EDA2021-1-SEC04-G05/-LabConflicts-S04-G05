@@ -1,6 +1,6 @@
 #ISIS1225 - Estructura de un proyecto
  Estudiante 1:Santiago Diaz
- Estudiante 2: Juana MEjia 
+ Estudiante 2: Juana Mejia 
 
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
